@@ -3,7 +3,7 @@
 
 ### Install
 
-1. Open **[Releases](https://github.com/jeff-tian-dev/VisionLoop/releases)** for this project.
+1. Open **[Releases](https://github.com/Clash-AutoLoot/releases)** for this project.
 2. Download the latest **`ClashAutoLoot.exe`** (or the main Windows build attached there).
 3. Save it somewhere you’re happy to run it from (Desktop or a folder is fine). You can run it as-is; no Python install needed.
 
