@@ -18,6 +18,7 @@
 - Play **Clash of Clans on PC** (for example Google Play Games).
 - Recommended to fullscreen the game, but isn't required. Don’t use a random or extreme crop; if the shape isn’t supported, the app may close right after opening with a short message.
 - If the game window isn’t open yet, the app can still start—just open Clash before you press **Start** on the bot.
+- **Make sure you have an army of all valkyries, earthquakes, and log launcher at the top of your saved recipe armies.** Other army strategies require the same setup, but different troop.
 
 ### License key
 
