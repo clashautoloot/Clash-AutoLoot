@@ -20,20 +20,6 @@
 - If the game window isn’t open yet, the app can still start—just open Clash before you press **Start** on the bot.
 - **Make sure you have an army of all valkyries, earthquakes, and log launcher at the top of your saved recipe armies.** Other army strategies require the same setup, but different troop.
 
-### License key
-
-A free trial of 1 hour runtime is given, which after a valid license key is required to use the bot.
-
-1. After purchasing, you will receive an email with a key in the format `CLASH-XXXX-XXXX-XXXX-XXXX`.
-2. Open the bot and paste the key into the **License Key** field at the top.
-3. Click **Activate**. The indicator dot turns **green** when the key is valid.
-   - **Green** = valid and ready to use.
-   - **Yellow** = checking (or temporarily unable to reach the server — retrying).
-   - **Red** = key is empty, invalid, revoked, or the server has been unreachable for more than 15 minutes.
-4. The key is **bound to this machine** on first activation. To transfer to a new machine, Click the **Unpair** button in the license key menu.
-
-> **Internet connection required.** The bot validates your license on startup and periodically while running. There is no offline mode.
-
 ### Using the app
 
 1. Open Clash of Clans and leave the window open or in the background, but don't minimize it.
@@ -55,3 +41,17 @@ This uses your player list, enter the supercell ID's of your account, case sensi
 ### Ranked attack fill
 
 This uses **ranked** battles instead of regular farming. Only enable it if you’re okay using up ranked attacks during your run.
+
+### License key
+
+A free trial of 1 hour runtime is given, which after a valid license key is required to use the bot.
+
+1. After purchasing, you will receive an email with a key in the format `CLASH-XXXX-XXXX-XXXX-XXXX`.
+2. Open the bot and paste the key into the **License Key** field at the top.
+3. Click **Activate**. The indicator dot turns **green** when the key is valid.
+   - **Green** = valid and ready to use.
+   - **Yellow** = checking (or temporarily unable to reach the server — retrying).
+   - **Red** = key is empty, invalid, revoked, or the server has been unreachable for more than 15 minutes.
+4. The key is **bound to this machine** on first activation. To transfer to a new machine, Click the **Unpair** button in the license key menu.
+
+> **Internet connection required.** The bot validates your license on startup and periodically while running. There is no offline mode.
