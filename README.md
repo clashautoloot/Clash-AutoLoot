@@ -31,6 +31,7 @@
 4. Toggle on and off **Multi-run**, **Star Bonus**, or **Ranked attack fill** (more info below)
 6. Type **how many minutes** to farm (or use the quick **5m / 10m / 20m** buttons) (or turn on **Star Bonus**).
 7. Click **Start** when you’re ready. Use **Stop** anytime—it should stop within a few seconds. You may also see **Start/Stop** on the **taskbar preview** when you hover the app.
+8. **TRY NOT TO DISTURB THE GAME WINDOW OR REFOCUS WHILE THE BOT IS RUNNING!** Sometimes the bot will glitch, if that happens, just stop and start the bot again back in the home screen. 
 
 ### Star Bonus
 
@@ -43,6 +44,10 @@ This uses your player list, enter the supercell ID's of your account, case sensi
 ### Ranked attack fill
 
 This uses **ranked** battles instead of regular farming. Only enable it if you’re okay using up ranked attacks during your run.
+
+### Upgrade walls
+
+This auto upgrades your walls once your storages are full. Use it if you're running it for longer than 20 minutes!
 
 ### License key
 
