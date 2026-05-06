@@ -20,6 +20,8 @@
 - If the game window isn’t open yet, the app can still start—just open Clash before you press **Start** on the bot.
 - **Make sure you have an army of all valkyries, earthquakes, and log launcher at the top of your saved recipe armies.** Other army strategies require the same setup, but different troop, and you have to select them in your current army because the troops are super troops and need to be boosted.
 
+<img width="1142" height="275" alt="image" src="https://github.com/user-attachments/assets/f37362f6-8e2b-4b8c-9185-0f3f5d0cfc0f" />
+
 ### Using the app
 
 1. Open Clash of Clans and leave the window open or in the background, but don't minimize it.
@@ -55,3 +57,5 @@ A free trial of 1 hour runtime is given, which after a valid license key is requ
 4. The key is **bound to this machine** on first activation. To transfer to a new machine, Click the **Unpair** button in the license key menu.
 
 > **Internet connection required.** The bot validates your license on startup and periodically while running. There is no offline mode.
+
+Disclaimer: This tool automates gameplay which is against Clash of Clans' ToS — use it at your own risk. I'm not responsible if your account gets banned. 
