@@ -61,13 +61,14 @@ This auto upgrades your walls once your storages are full, spare builder is requ
 
 A free trial of 1 hour runtime is given, which after a valid license key is required to use the bot.
 
-1. After purchasing, you will receive an email with a key in the format `CLASH-XXXX-XXXX-XXXX-XXXX`.
-2. Open the bot and paste the key into the **License Key** field at the top.
-3. Click **Activate**. The indicator dot turns **green** when the key is valid.
+1. Head over to the license page where you can choose to buy a subscription or lifetime license.
+2. After purchasing, you will receive an email with a key in the format `CLASH-XXXX-XXXX-XXXX-XXXX`. If you're extending, just reuse the same license key.
+3. Open the bot and paste the key into the **License Key** field at the top.
+4. Click **Activate**. The indicator dot turns **green** when the key is valid.
    - **Green** = valid and ready to use.
    - **Yellow** = checking (or temporarily unable to reach the server — retrying).
    - **Red** = key is empty, invalid, revoked, or the server has been unreachable for more than 15 minutes.
-4. The key is **bound to this machine** on first activation. To transfer to a new machine, Click the **Unpair** button in the license key menu.
+5. The key is **bound to this machine** on first activation. To transfer to a new machine, Click the **Unpair** button in the license key menu.
 
 > **Internet connection required.** The bot validates your license on startup and periodically while running. There is no offline mode.
 
