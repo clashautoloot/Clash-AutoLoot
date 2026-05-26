@@ -14,13 +14,21 @@
 
 ### Before you run it
 
-- Use **Windows**.
+- Use **Windows 10/11**.
 - Play **Clash of Clans on PC** (for example Google Play Games).
 - Recommended to fullscreen the game, but isn't required. Don’t use a random or extreme crop; if the shape isn’t supported, the app may close right after opening with a short message.
-- If the game window isn’t open yet, the app can still start—just open Clash before you press **Start** on the bot.
-- **Make sure you have an army of all valkyries, earthquakes, and log launcher at the top of your saved recipe armies.** Other army strategies require the same setup, but different troop, and you have to select them in your current army because the troops are super troops and need to be boosted.
-
+- If the game window isn’t open yet, the app can still start—just open Clash and **make sure you're in the home village** before you press **Start** on the bot.
+- **Make sure you have an army of all valkyries, earthquakes, and log launcher at the top of your saved recipe armies.** 
 <img width="1142" height="275" alt="image" src="https://github.com/user-attachments/assets/f37362f6-8e2b-4b8c-9185-0f3f5d0cfc0f" />
+
+*Example of a Valk setup*
+
+- Other army strategies require you to manually select troops in your current army because some are super troops and need to be boosted.
+
+<img width="1127" height="577" alt="image" src="https://github.com/user-attachments/assets/a82f6de6-e461-461e-b9aa-6349448dff55" />
+
+*Example of a Super Minion setup*
+
 
 ### Using the app
 
@@ -47,7 +55,7 @@ This uses **ranked** battles instead of regular farming. Only enable it if you�
 
 ### Upgrade walls
 
-This auto upgrades your walls once your storages are full. Use it if you're running it for longer than 20 minutes!
+This auto upgrades your walls once your storages are full, spare builder is required. Use it if you're running it for longer than 20 minutes!
 
 ### License key
 
@@ -62,5 +70,8 @@ A free trial of 1 hour runtime is given, which after a valid license key is requ
 4. The key is **bound to this machine** on first activation. To transfer to a new machine, Click the **Unpair** button in the license key menu.
 
 > **Internet connection required.** The bot validates your license on startup and periodically while running. There is no offline mode.
+
+### CONTACT ME
+Have any questions, concerns, or feedback? Feel free to reach out to me at **clashautoloot@gmail.com**
 
 Disclaimer: This tool automates gameplay which is against Clash of Clans' ToS — use it at your own risk. I'm not responsible if your account gets banned. 
