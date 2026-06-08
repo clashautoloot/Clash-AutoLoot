@@ -1,4 +1,11 @@
-# Clash-AutoLoot
+# Clash AutoLoot
+## Highlights:
+- Uses Google Play PC - Virtually undetectable "official" way to play Clash of Clans on PC (Unmodifiable emulator, unlike Bluestacks/Ldplayer)
+- Works with the game window behind others (no cursor hooks)
+- Multi-account rotation with name matching from the in-game list
+- Upgrades walls automatically when storages are full
+- 180M+ Loot per hour (Gold + Elixir at TH18)
+
 ## HOW TO USE
 
 ### Prerequisites
