@@ -1,8 +1,8 @@
 # Clash AutoLoot
-## Summary:
+## Summary
 Automated farming bot for Clash of Clans on PC (Google Play Games). Farms Gold/Elixir hands-free using Valkyries, Sneaky Goblins, or Super Minions, with multi-account support, star bonus tracking, and auto wall upgrades.
 
-## Highlights:
+## Highlights
 - Uses Google Play PC - Virtually undetectable "official" way to play Clash of Clans on PC (Unmodifiable emulator, unlike Bluestacks/Ldplayer)
 - Works with the game window behind others (no cursor hooks)
 - Multi-account rotation with name matching from the in-game list
