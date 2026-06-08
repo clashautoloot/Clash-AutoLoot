@@ -1,10 +1,13 @@
 # Clash AutoLoot
+## Summary:
+Automated farming bot for Clash of Clans on PC (Google Play Games). Farms Gold/Elixir hands-free using Valkyries, Sneaky Goblins, or Super Minions, with multi-account support, star bonus tracking, and auto wall upgrades.
+
 ## Highlights:
 - Uses Google Play PC - Virtually undetectable "official" way to play Clash of Clans on PC (Unmodifiable emulator, unlike Bluestacks/Ldplayer)
 - Works with the game window behind others (no cursor hooks)
 - Multi-account rotation with name matching from the in-game list
 - Upgrades walls automatically when storages are full
-- 180M+ Loot per hour (Gold + Elixir at TH18)
+- **180M+ Loot per hour** (Gold + Elixir at TH18)
 
 ## HOW TO USE
 
@@ -40,7 +43,7 @@
 1. Open Clash of Clans and leave the window open or in the background, but don't minimize it.
 2. Double-click **`ClashAutoLoot`** to open it.
 3. Enter and activate your **license key** (see above).
-4. Pick how you want to attack: **Valkyries**, **Sneaky Goblins**, or **Super Minions**.
+4. Pick how you want to attack: **Valkyries**, **Sneaky Goblins**, **Super Minions**, or **Electro Dragons**
 4. Toggle on and off **Multi-run**, **Star Bonus**, or **Ranked attack fill** (more info below)
 6. Type **how many minutes** to farm (or use the quick **5m / 10m / 20m** buttons) (or turn on **Star Bonus**).
 7. Click **Start** when you’re ready. Use **Stop** anytime—it should stop within a few seconds. You may also see **Start/Stop** on the **taskbar preview** when you hover the app.
