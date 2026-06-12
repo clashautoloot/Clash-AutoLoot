@@ -8,6 +8,8 @@ Automated farming bot for Clash of Clans on PC (Google Play Games). Farms Gold/E
 - Multi-account rotation with name matching from the in-game list
 - Upgrades walls automatically when storages are full
 - **180M+ Loot per hour** (Gold + Elixir at TH18)
+- Smart, random, and humanlike placement, clicks, and drags.
+- Multiple accounts stress tested for several hours everyday for months, survived 4+ ban waves
 
 ## HOW TO USE
 
