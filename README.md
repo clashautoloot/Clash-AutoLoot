@@ -24,7 +24,7 @@ Automated farming bot for Clash of Clans on PC (Google Play Games). Farms Gold/E
 
 ### Before you run it
 
-- **Make sure to fullscreen your game and it should be running on your primary monitor if you have multiple**
+- **Make sure to fullscreen your game and it should be running on your primary monitor if you have multiple.**
 - If the game window isn’t open yet, the app can still start—just open Clash and **make sure you're in the home village** before you press **Start** on the bot.
 - **Make sure you have an army of all valkyries, earthquakes, and log launcher at the top of your saved recipe armies.** 
 <img width="1142" height="275" alt="image" src="https://github.com/user-attachments/assets/f37362f6-8e2b-4b8c-9185-0f3f5d0cfc0f" />
@@ -46,8 +46,8 @@ Automated farming bot for Clash of Clans on PC (Google Play Games). Farms Gold/E
 4. Pick how you want to attack: **Valkyries**, **Sneaky Goblins**, **Super Minions**, or **Electro Dragons**
 4. Toggle on and off **Multi-run**, **Star Bonus**, or **Ranked attack fill** (more info below)
 6. Type **how many minutes** to farm (or use the quick **5m / 10m / 20m** buttons) (or turn on **Star Bonus**).
-7. Click **Start** when you’re ready. Use **Stop** anytime—it should stop within a few seconds. You may also see **Start/Stop** on the **taskbar preview** when you hover the app.
-8. **TRY NOT TO DISTURB THE GAME WINDOW OR REFOCUS WHILE THE BOT IS RUNNING!** Sometimes the bot will glitch, if that happens, just stop and start the bot again back in the home screen. 
+7. Click **Start** when you’re ready. Use **Stop** anytime, it should stop within a few seconds. You may also see **Start/Stop** on the **taskbar preview** when you hover the app.
+8. **Clicking or refocusing the window may disturb the bot occasionally while it's running, simply stop and start on your home village to fix it.
 
 ### Star Bonus
 
