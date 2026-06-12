@@ -1,5 +1,8 @@
 # Clash AutoLoot
+<img width="1265" height="755" alt="exmapleautoloot" src="https://github.com/user-attachments/assets/8b31faab-8971-4e2c-8d00-4859a91438a8" />
+
 ## Summary
+
 Automated farming bot for Clash of Clans on PC (Google Play Games). Farms Gold/Elixir hands-free using Valkyries, Sneaky Goblins, or Super Minions, with multi-account support, star bonus tracking, and auto wall upgrades.
 
 ## Highlights
