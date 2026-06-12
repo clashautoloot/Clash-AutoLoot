@@ -24,7 +24,7 @@ Automated farming bot for Clash of Clans on PC (Google Play Games). Farms Gold/E
 
 ### Before you run it
 
-- Recommended to fullscreen the game, but isn't required. Don’t use a random or extreme crop; if the shape isn’t supported, the app may close right after opening with a short message.
+- **Make sure to fullscreen your game**
 - If the game window isn’t open yet, the app can still start—just open Clash and **make sure you're in the home village** before you press **Start** on the bot.
 - **Make sure you have an army of all valkyries, earthquakes, and log launcher at the top of your saved recipe armies.** 
 <img width="1142" height="275" alt="image" src="https://github.com/user-attachments/assets/f37362f6-8e2b-4b8c-9185-0f3f5d0cfc0f" />
