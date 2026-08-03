@@ -106,7 +106,7 @@ A free trial of 1 hour runtime is given, which after a valid license key is requ
    - **Red** = key is empty, invalid, revoked, or the server has been unreachable for more than 15 minutes.
 5. The key is **bound to this machine** on first activation. To transfer to a new machine, Click the **Unpair** button in the license key menu.
 
-> **Internet connection required.** The bot validates your license on startup and periodically while running. There is no offline mode.
+> **Internet connection required.** The bot validates your license on startup and periodically while running. There is no offline mode. 
 
 ### CONTACT ME
 Have any questions, concerns, or feedback? Feel free to reach out to me at **clashautoloot@gmail.com**
