@@ -50,11 +50,7 @@ Automated farming bot for Clash of Clans on PC (Google Play Games). Farms Gold/E
 *Example of a Super Minion setup*
 
 #### Builder Base setup
-- Select **Builder Base** at the top of the Run page (or start from Home Village — the bot will take the boat across for you).
-- Fill your troop bar with **Baby Dragons** (all slots).
-- **Battle Machine** or **Flying Machine** on the bar is optional; the bot deploys whichever it finds.
-- Pick how to **Prioritise** loot (see below). Click the **?** next to Prioritise for a quick explanation of each option.
-
+- Manually fill the same type troop in your builder base armies (future update you won't)
 
 ### Using the app
 
